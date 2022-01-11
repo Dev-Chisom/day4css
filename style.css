@@ -157,4 +157,8 @@ font-size: 18px;
   .body-text {
     text-align: center;
   }
+  .hour{
+    display: block;
+    text-align: center;
+  }
 }
