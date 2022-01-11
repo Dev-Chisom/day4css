@@ -154,4 +154,7 @@ font-size: 18px;
     padding: 2rem 3.8rem;
     margin-top: 1rem;
   }
+  .body-text {
+    text-align: center;
+  }
 }
