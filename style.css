@@ -24,8 +24,8 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 6rem;
-  width: 6rem;
+  height: 5rem;
+  width: 5rem;
   margin-bottom: 1rem;
 }
 .content {
@@ -119,9 +119,9 @@ font-size: 18px;
   background: none;
   outline: none;
   border: 1px solid #a2a1b4;
-  border-radius: 1.2rem;
-  padding: 2rem 3.8rem;
-  margin-right: 1.5rem;
+  border-radius: .6rem;
+  padding: .6rem 1rem;
+  margin-right: 1rem;
   font-weight: 400;
   transition: all 0.2s;
   cursor: pointer;
@@ -151,7 +151,7 @@ font-size: 18px;
     justify-content: center;
   }
   .btn {
-    padding: 2rem 3.8rem;
+    padding: .6rem 1rem;
     margin-top: 1rem;
   }
   .body-text {
@@ -160,5 +160,9 @@ font-size: 18px;
   .hour{
     display: block;
     text-align: center;
+  }
+  .bell {
+    height: 4rem;
+    width: 4rem;
   }
 }
